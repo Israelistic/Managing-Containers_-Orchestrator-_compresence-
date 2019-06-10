@@ -18,12 +18,16 @@ Task Associated with containers:
 Control plane - main entry point of orchestrator. Interface to launch an application, query the state or shout down 
 
 Why Fargate
+
 Pro’s:
+
 * Its serverless version of container 
 * Both ECS and EKS requires managing cluster and or some Infrastracture
 * No need to create cluster or determine EC2 size, Fargare scales on-dement
 * Pay for what you use
+
 Con’s:
+
 * One size does NOT fit ALL- Can be cheaper or pricier then ECS/EKS based on usage
 
 
