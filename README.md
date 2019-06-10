@@ -34,14 +34,16 @@ Con’s:
 
 |Tasks|EC2|ECS|Kubernetes|EKS|Fargate|
 |-----|---|---|----------|---|-------|
-|a    |   |   |          |   |       |
-|b    |   |   |          |   |       |
-|c    |   |   |          |   |       |
-|d    |   |   |          |   |       |
-|e    |   |   |          |   |       |
-|f.   |   |   |          |   |       |
-|g.   |   |   |          |   |       |
-|h.   |   |   |          |   |       |
-|i.   |   |   |          |   |       |
-|Deployment as Containers|you need to configure the container on multiple AZ’s and mange them|-Fully manage, highly available, |highly scalable control plane|You have to select the host (such as EC2)|pay for underlying EC2||Orchestration |
+|Deployment as Containers|you need to configure the container on multiple AZ’s and mange them|-Fully manage, highly available|highly scalable control plane|You have to select the host (such as EC2|pay for underlying EC2|Orchestration|
+|2    |   |   |          |   |       |
+|3    |   |   |          |   |       |
+|4    |   |   |          |   |       |
+|5    |   |   |          |   |       |
+|6.   |   |   |          |   |       |
+|7.   |   |   |          |   |       |
+|8.   |   |   |          |   |       |
+|9.   |   |   |          |   |       |
+|10   |   |   |          |   |       |
+|11   |   |   |          |   |       |
+|| ||||||
 
